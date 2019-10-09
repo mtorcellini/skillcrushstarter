@@ -400,10 +400,25 @@ body {
 
 
 
-/****************************** SIDEBAR **********************/
+/************************************************ SIDEBAR ****************************************/
 
 #primary-sidebar {
 	padding-left: 10px;
+}
+
+#primary-sidebar input[type="text"] {
+	float: left;
+	width: 10em;
+	margin-left: 1em;
+	margin-right: 0;
+}
+
+#primary-sidebar #searchsubmit {
+	height: 2.06em;
+	width: 2.06em;
+	padding: 0;
+	margin-left: 0;
+	float: left;
 }
 
 .textwidget img {
@@ -778,7 +793,7 @@ body {
 }
 /* End HOMEPAGE STYLES */
 
-/********************************* CONTACT ********************/
+/****************************************** CONTACT ***********************************************/
 
 .contact-form #nf-field-4 {
 	background: #45AC9D;
