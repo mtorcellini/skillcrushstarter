@@ -400,7 +400,7 @@ body {
 
 
 
-/***** SIDEBAR *****/
+/****************************** SIDEBAR **********************/
 
 #primary-sidebar {
 	padding-left: 10px;
@@ -410,6 +410,24 @@ body {
 	border-radius: 50%;
 }
 
+.wpp-list li {
+	padding-bottom: 20px;
+}
+
+.wpp-list .wpp-post-title {
+	color: #4AAB9D;
+	font-weight: bold;
+}
+
+.wpp-list .post-stats {
+	color: black;
+	font-weight: 300;
+}
+
+.wpp-list .post-stats a {
+	color: black;
+	font-weight: 600;
+}
 
 /********************************************* BLOG PAGE **********************************************/
 
