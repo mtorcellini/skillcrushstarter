@@ -777,3 +777,15 @@ body {
 	}
 }
 /* End HOMEPAGE STYLES */
+
+/********************************* CONTACT ********************/
+
+.contact-form #nf-field-4 {
+	background: #45AC9D;
+	color: white;
+	padding: 0 20px;
+}
+
+.contact-form #nf-field-4:hover {
+	color: black;
+}
